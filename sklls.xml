@@ -1,0 +1,12 @@
+<xml>
+	<skill_1>"HTTP, JSON, XML"</skill_1>
+        <skill_2>"API Postman (JS, автотесты API)"</skill_2>
+        <skill_3>"Charles, Fiddler"</skill_3>
+	<skill_4>"Dev Tools (Google Chrome, FireFox)"</skill_4>
+	<skill_5>"iOS, Android (Android Studio, ADB)"</skill_5>
+	<skill_6>"Terminal Linux"</skill_6>
+        <skill_7>"Bash скриптинг"</skill_7>
+        <skill_8>"SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)"</skill_8>
+	<skill_9>"Postgres, Redis, Jmeter"</skill_9>
+	<skill_10>"Scrum"</skill_10>
+	<skill_11>"Python (основы)"</skill_11>
