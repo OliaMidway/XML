@@ -1,6 +1,7 @@
 <xml>
-	<p1>"Дневник памяти"</p1>
-        <p2>"Game of thrones"</p2>
-        <p3>"суши"</p3>
-	<p4>"лето"</p4>
-	<p5>"Island"</p5>
+	<favorite_movie>""Diary of memory</favorite_movie>
+        <favorite_series>"Game of thrones"</favorite_series>
+        <favorite_food>"sushi"</favorite_food>
+	<favorite_season>"summer"</favorite_season>
+	<country_you_would_like_to_visit>"Island"</country_you_would_like_to_visit>
+</xml>
