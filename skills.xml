@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <xml>
 	<p1>"HTTP, JSON, XML"</p1>
-        <p2>"API Postman (JS, автотесты API)"</p2>
+        <p2>"API Postman (JS, autotests API)"</p2>
         <p3>"Charles, Fiddler"</p3>
 	<p4>"Dev Tools (Google Chrome, FireFox)"</p4>
 	<p5>"iOS, Android (Android Studio, ADB)"</p5>
 	<p6>"Terminal Linux"</p6>
-        <p7>"Bash скриптинг"</p7>
+        <p7>"Bash scripting"</p7>
         <p8>"SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)"</p8>
 	<p9>"Postgres, Redis, Jmeter"</p9>
 	<p10>"Scrum"</p10>
