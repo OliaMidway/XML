@@ -1,10 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <xml>
 	<ID>"1"</ID>
 	<environment>"Win 10 X64, версия 21H1, сборка ОС 19043.1645"</environment>
-	<description>"_"</description>
-	<severity>"_"</severity>
-	<priority>"_"</priority>
-	<STR>"_"</STR>
-	<actual_result>"_"</actual_result>
-	<expexted_result>"_"</expected_result>
+	<description>"First name field should accept up to 31 characters (no 30 as it accepts now)"</description>
+	<severity>"Major"</severity>
+	<priority>"Medium"</priority>
+	<STR>"1) Go to ITcareer website,
+              2) Enter 31 Latin letters in the First Name field,
+              3) Click on the Submit button"</STR>
+	<actual_result>"Error message"</actual_result>
+	<expexted_result>"Success message"</expected_result>
 </xml>
